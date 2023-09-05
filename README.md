@@ -49,10 +49,10 @@
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;
-
-[comment]: # (<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />&nbsp;)
+<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
+<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />&nbsp;
+&& OTHER
 [comment]: # (<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;)
-[comment]: # (<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;)
 
 <hr style="height: 2px; background-color: #61dafb; border-radius: 1px"/>
 
