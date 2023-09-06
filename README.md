@@ -46,13 +46,12 @@
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />&nbsp;
-<img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
 <img style="height: 40px; width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />&nbsp;
-&& OTHER
+<img style="height: 40px; width: 40px" src="https://www.svgrepo.com/show/199911/more.svg" />&nbsp;
 
 <hr style="height: 2px; background-color: #61dafb; border-radius: 1px"/>
 
